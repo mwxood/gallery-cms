@@ -1,1 +1,1 @@
-gallery-cms
+gallery
